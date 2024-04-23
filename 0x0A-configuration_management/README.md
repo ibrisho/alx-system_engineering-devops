@@ -12,8 +12,8 @@ At the end of this project, I was able to solve these questions:
 
 ## Tasks :heavy_check_mark:
 
-0. Puppet file in /tmp, file path is /tmp/holberton, file permission is 0744, file owner is www-data, file group is www-data, file contains I love Puppet
-1. Puppet file that installs puppet-lint.
+0. Puppet file in /tmp, file path is /tmp/school, file permission is 0744, file owner is www-data, file group is www-data, file contains I love Puppet
+1. Puppet file that installs flask.
 2. Puppet file that create a manifest that kills a process named killmenow.
 
 
