@@ -32,7 +32,7 @@ Here we can see that after starting my Docker container, I curl the port 8080 ma
 
 ### Try It On Your Machine :computer:
 ```bash
-git clone https://github.com/edward0rtiz/holberton-system_engineering-devops.git
+git clone https://github.com/ibrisho/alx-system_engineering-devops.git
 cd 0x0D-web_stack_debugging_0
 cat FILENAME
 docker run -p 8080:80 -d -it CONTAINER_ID
